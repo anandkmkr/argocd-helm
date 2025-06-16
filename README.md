@@ -4,10 +4,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to EyesOnCloud Test Web Server App</title>
+    <title>TEST ENV</title>
     <style>
         body {
-            background-color: #1E90FF;
+            background-color: #99e6ff;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -24,9 +24,9 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to EyesOnCloud Test Web Server App</h1>
+    <h1>Test Application</h1>
     <p>This is a test web server application.</p>
-    <img src="https://github.com/EyesOnCloud/webapp/raw/main/EOC%20logo.png" alt="EOC Logo">
+    <img src="https://github.com/anandkmkr/argocd-helm/blob/main/Untitled.png" alt="ArgoCD Logo">
 </body>
 </html>
 ```
@@ -35,10 +35,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to EyesOnCloud Test Web Server App</title>
+    <title>Prod ENV</title>
     <style>
         body {
-            background-color: #ADFF2F;
+            background-color: #ffcc99;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -55,9 +55,9 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to EyesOnCloud Test Web Server App</h1>
-    <p>This is a test web server application.</p>
-    <img src="https://github.com/EyesOnCloud/webapp/raw/main/EOC%20logo.png" alt="EOC Logo">
+    <h1>Production Application</h1>
+    <p>This is a production web server application.</p>
+    <img src="https://github.com/anandkmkr/argocd-helm/blob/main/Untitled.png" alt="ArgoCD Logo">
 </body>
 </html>
 ```
