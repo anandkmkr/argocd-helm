@@ -6,8 +6,8 @@ configmap:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
 image:
-  name: eyesoncloud/webapp
-  tag: 34
+  name: anandkumarmk6479/webapp
+  tag: latest
 
 service:
   type: ClusterIP
