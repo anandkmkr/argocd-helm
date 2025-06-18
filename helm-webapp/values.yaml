@@ -8,6 +8,8 @@ configmap:
 image:
   name: anandkumarmk6479/webapp
   tag: latest
+imagePullSecrets:
+  name: regcred
 
 service:
   type: ClusterIP
