@@ -6,7 +6,7 @@ configmap:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
 image:
-  name: anandkumarmk6479/webapp
+  name: anandkumarmk6479/argocd:latest
   tag: latest
 imagePullSecrets:
   name: regcred
